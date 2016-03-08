@@ -13,7 +13,7 @@ Bienvenue dans la documentation de Masterpush
 `Masterpush`_ est un service d'envoi de masse dédié au SMS. Il permet à nos clients d'envoyer des campagnes
 de marketing via SMS.
 
-Le but de cette documentation et de permettre à un utilisateur de l'API Masterpush d'implémenter rapidement
+Le but de cette documentation est de permettre à un utilisateur de l'API Masterpush d'implémenter rapidement
 un module d'envoi de sms sur son application.
 
 Documentation pour PHP :
