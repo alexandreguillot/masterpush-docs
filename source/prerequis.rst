@@ -22,7 +22,7 @@ S'authentifier
 --------------
 
 Afin de vous identifier sur l'API, il vous sera demandé d'ajouter un token (clé) d'authentification à chaque requête.
-Celui-çi vous sera communiqué par un de nos account Managers ou commercial, il peut être révoqué à tout moment.
+Celui-ci vous sera communiqué par un de nos account Managers ou commercial, il peut être révoqué à tout moment.
 Pour cela, il suffit de demander la génération d'un nouveau token.
 
 La clé doit être ajoutée dans les headers des requêtes. Voici comment procéder avec Curl:
