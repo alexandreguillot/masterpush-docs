@@ -91,7 +91,7 @@ Retrouver un message
 --------------------
 
 Vous pouvez retrouver un message a partir de son ID.
-Pour faire ça, il suffit d'envoyer une requête GET vers la route /messages/{ID} où {ID} doit être remplacé par l'ID du message en question.
+Pour faire cela, il suffit d'envoyer une requête GET vers la route /messages/{ID} où {ID} doit être remplacé par l'ID du message en question.
 Le code ci-dessous retournera les informations du message a l'id  '42sh' (il n'existe pas).
 
 .. code-block:: php
@@ -174,7 +174,7 @@ La route /messages retourne un object json représentant le message, il contient
 Envoi multiple
 --------------
 
-Vous pouvez envoyer plusieur message en une requête. Pour cela il suffit d'envoyer une requête POST vers la route /messages/multiple.
+Vous pouvez envoyer plusieurs messages en une requête. Pour cela il suffit d'envoyer une requête POST vers la route /messages/multiple.
 Cette route prend pour argument une array de message. L'exemple ci-dessous envera deux messages.
 
 .. code-block:: php
